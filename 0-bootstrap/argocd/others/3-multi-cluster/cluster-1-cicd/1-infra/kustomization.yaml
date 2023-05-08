@@ -1,0 +1,24 @@
+resources:
+- argocd/consolelink.yaml
+- argocd/consolenotification.yaml
+- argocd/namespace-ci.yaml
+- argocd/namespace-istio-system.yaml
+- argocd/namespace-openldap.yaml
+- argocd/namespace-sealed-secrets.yaml
+- argocd/namespace-tools.yaml
+#- argocd/namespace-openshift-storage.yaml
+#- argocd/operator-ocs.yaml
+#- argocd/refarch-infraconfig.yaml
+#- argocd/refarch-machinesets.yaml
+
+
+# Openshift Serverless/Eventing
+#- argocd/namespace-openshift-serverless.yaml
+#- argocd/namespace-knative-serving.yaml
+#- argocd/namespace-knative-eventing.yaml
+
+# Slack Notifications
+#- argocd/namespace-slack-notifications.yaml
+
+
+

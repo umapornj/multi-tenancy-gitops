@@ -1,0 +1,12 @@
+resources:
+#- argocd/ace/cicd.yaml
+
+#- argocd/mq/cicd.yaml
+
+#- argocd/apic/cicd.yaml
+
+#- argocd/bookinfo/cicd.yaml
+
+# Slack Notifications
+#- argocd/slack-notifications/slack-notifications.yaml
+#- argocd/shared/config/openshift-pipelines/configmap/openshift-pipelines-config.yaml
